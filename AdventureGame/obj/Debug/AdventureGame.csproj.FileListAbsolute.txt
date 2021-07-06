@@ -5,3 +5,10 @@ D:\CSharp\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csprojAssemblyRefe
 D:\CSharp\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csproj.CoreCompileInputs.cache
 D:\CSharp\AdventureGame\AdventureGame\obj\Debug\AdventureGame.exe
 D:\CSharp\AdventureGame\AdventureGame\obj\Debug\AdventureGame.pdb
+D:\CSharp\AdventureGameCS\AdventureGame\bin\Debug\AdventureGame.exe.config
+D:\CSharp\AdventureGameCS\AdventureGame\bin\Debug\AdventureGame.exe
+D:\CSharp\AdventureGameCS\AdventureGame\bin\Debug\AdventureGame.pdb
+D:\CSharp\AdventureGameCS\AdventureGame\obj\Debug\AdventureGame.csprojAssemblyReference.cache
+D:\CSharp\AdventureGameCS\AdventureGame\obj\Debug\AdventureGame.csproj.CoreCompileInputs.cache
+D:\CSharp\AdventureGameCS\AdventureGame\obj\Debug\AdventureGame.exe
+D:\CSharp\AdventureGameCS\AdventureGame\obj\Debug\AdventureGame.pdb
