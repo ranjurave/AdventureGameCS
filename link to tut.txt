@@ -1,0 +1,3 @@
+on lesson 10 now
+
+http://programmingisfun.com/learn/c-sharp-adventure-game/c_sharp_10_content_arrays/
